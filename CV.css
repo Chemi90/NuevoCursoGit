@@ -1,0 +1,39 @@
+ul {
+    list-style: none;
+    padding-bottom: 20px;
+}
+li {
+    padding-bottom: 10px;
+}
+.derecha {
+    padding-left: 235px;
+}
+.linea {
+    position: relative;
+    left: 235px;
+    bottom: 27px;
+}
+.tituloexp {
+    position: relative;
+    color: aqua;
+}
+.restoexp {
+    position: relative;
+    bottom: 20px;
+}
+body {
+    background-color: blueviolet;
+    height: 297mm;
+    width: 210mm;
+}
+.imagen {
+    position: relative;
+    left: 30px;
+}
+.descripcion {
+    position: relative;
+    left: 40px;
+}
+.formulario {
+    text-align: center;
+}
